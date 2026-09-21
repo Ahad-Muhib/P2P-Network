@@ -1,0 +1,8 @@
+# No third-party packages are needed for this project.
+#
+# Everything runs on the Python standard library only:
+#   - tkinter          GUI (main.py)
+#   - socket, threading, struct, json, uuid, hashlib, os, pathlib, queue
+#                      networking + protocol (p2p_node.py, protocol.py)
+#
+# Python 3.9 or later is required (3.9+ tested on Windows, Linux and macOS).
