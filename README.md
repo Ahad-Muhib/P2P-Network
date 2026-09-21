@@ -1,4 +1,4 @@
-# P2P Network Chat & File Sharing (CSE 433)
+# P2P Network Chat & File Sharing
 
 A lightweight **peer-to-peer (P2P) chat and file-sharing application** written
 in Python. Every running instance is both a **TCP server** (accepts incoming
